@@ -1,4 +1,4 @@
-**This repo includes my work on learning some advanced topics using C language.**
+**This repository contains my work on learning some advanced topics using the C language.**
 
 
 # HW-Bank-Branch: Simulation of a Bank Branch with Multiple Pay Desks and Clients
