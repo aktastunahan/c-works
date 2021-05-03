@@ -11,10 +11,10 @@ This repo includes my work on learning some advanced topics using C language.
 | -d |  The rate of duration time                     | 10  |
 
 +  Compile the code by `gcc main.c -o office -lm -pthread`
-  *  Example run: `./office –c 7 –n 2 –q 2 –g 25 –d 5
-     -  ![](https://github.com/aktastunahan/c-works/blob/main/HW-Bank-Branch/bank_branch_1.PNG)
-  *  Example run: `./office –c 7 –n 2 –q 2 –g 25 –d 5
-     -  ![](https://github.com/aktastunahan/c-works/blob/main/HW-Bank-Branch/bank_branch_2.PNG)
+  *  Example run: `./office –c 7 –n 2 –q 2 –g 25 –d 5`
+     ![](https://github.com/aktastunahan/c-works/blob/main/HW-Bank-Branch/bank_branch_1.PNG)
+  *  Example run: `./office –c 7 –n 2 –q 2 –g 25 –d 5`
+     ![](https://github.com/aktastunahan/c-works/blob/main/HW-Bank-Branch/bank_branch_2.PNG)
 
 # hw1: Count Words by Multithreading
 Two different programs to count words in a given file. One counts the words
