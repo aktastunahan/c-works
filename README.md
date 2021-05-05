@@ -11,7 +11,7 @@
 | -d |  The rate of duration time                     | 10  |
 
 +  Compile the code by `gcc main.c -o office -lm -pthread`
-  *  Example run: `./office –c 7 –n 2 –q 2 –g 25 –d 5` <br /> <br />
+  *  Example run: `./office` <br /> <br />
      ![](https://github.com/aktastunahan/c-works/blob/main/HW-Bank-Branch/bank_branch_1.PNG)
   *  Example run: `./office –c 7 –n 2 –q 2 –g 25 –d 5` <br /> <br />
      ![](https://github.com/aktastunahan/c-works/blob/main/HW-Bank-Branch/bank_branch_2.PNG)
